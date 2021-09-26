@@ -1,0 +1,31 @@
+{ "name": "w3c-wpt-annotation-protocol-fixtures-pmb",
+  "version": "0.0.1",
+  "description": "Nicely packaged copy of https://github.com/web-platform-tests/wpt/tree/master/annotation-protocol/files/annotations/",
+  "keywords": [],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/w3c-wpt-annotation-protocol-fixtures-pmb/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/w3c-wpt-annotation-protocol-fixtures-pmb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/w3c-wpt-annotation-protocol-fixtures-pmb/issues"
+  },
+  "contributors": [],
+
+  "private": false, "license": "BSD-3-Clause",
+
+  "type": "module",
+  "exports": "blobs/all.json",
+  "main": "blobs/all.json",
+  "scripts": { "test": "elp && nodemjs test/all.mjs" },
+  "directories": { "test": "test" },
+  "eslintConfig": { "extends": "nodejs-pmb" },
+
+  "dependencies": {},
+  "devDependencies": {},
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
