@@ -12,7 +12,9 @@
   "bugs": {
     "url": "https://github.com/mk-pmb/w3c-wpt-annotation-protocol-fixtures-pmb/issues"
   },
-  "contributors": [],
+  "contributors": [
+    "web-platform-tests contributors"
+  ],
 
   "private": false, "license": "BSD-3-Clause",
 
