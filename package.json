@@ -1,5 +1,5 @@
 { "name": "w3c-wpt-annotation-protocol-fixtures-pmb",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Nicely packaged copy of https://github.com/web-platform-tests/wpt/tree/master/annotation-protocol/files/annotations/",
   "keywords": [],
 

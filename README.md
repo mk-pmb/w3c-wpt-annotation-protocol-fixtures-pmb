@@ -29,6 +29,13 @@ How can we minimize download size?
 
 
 
+API
+---
+
+The module API is still experimental.
+Instead, use the JSON files in the `examples/` directory.
+
+
 
 
 Known issues
