@@ -1,0 +1,16 @@
+﻿
+anno-model-examples
+===================
+
+There are two very similar sets of examples:
+* Those for the Annotatoion __Protocol__, which ship in this repo
+  (see [../README.md](../README.md)).
+* Those in the [Annotatoion __Data Model__ spec][anno-model].
+
+This directory is about the latter.
+
+Due to license reasons, I cannot currently ship them directly.
+Instead, you can use the [downloader](download.sh) to obtain them.
+
+
+

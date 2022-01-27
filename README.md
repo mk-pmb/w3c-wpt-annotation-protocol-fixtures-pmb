@@ -11,6 +11,20 @@ https://github.com/web-platform-tests/wpt/tree/master/annotation-protocol/files/
 
 
 
+Do not confuse:
+---------------
+
+There are two very similar sets of examples:
+* Those for the Annotatoion __Protocol__, which ship in this repo (see API).
+* Those in the [Annotatoion __Data Model__ spec][anno-model].
+
+  [anno-model]: https://www.w3.org/TR/annotation-model/
+
+For details and comparison, please see
+[anno-model-examples/README.md](anno-model-examples/README.md).
+
+
+
 Motivation
 ----------
 
