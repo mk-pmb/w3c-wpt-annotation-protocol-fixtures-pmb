@@ -24,6 +24,8 @@ function dl_main () {
     s~^0*([0-9]{3}):~ex\1~
     s~\f\s*<pre [^<>]+>~\f~
     s~\f~\n:~g
+    s~\&lt;~<~g
+    s~\&gt;~>~g
     s~$~\n.~
     ') | write_files || return $?
 }
