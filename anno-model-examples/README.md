@@ -7,6 +7,8 @@ There are two very similar sets of examples:
   (see [../README.md](../README.md)).
 * Those in the [Annotatoion __Data Model__ spec][anno-model].
 
+  [anno-model]: https://www.w3.org/TR/annotation-model/
+
 This directory is about the latter.
 
 Due to license reasons, I cannot currently ship them directly.
